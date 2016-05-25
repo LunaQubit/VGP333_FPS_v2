@@ -1,0 +1,7 @@
+Missing:
+- Add Sprinting in "CharacterController"
+
+
+https://www.youtube.com/watch?v=W7NQAF0sQw8
+
+https://www.youtube.com/watch?v=_lP6epjupJs
