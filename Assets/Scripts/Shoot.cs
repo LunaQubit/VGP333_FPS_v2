@@ -23,5 +23,13 @@ public class Shoot : MonoBehaviour
         } 
 	}
     
+    void OnCollisionEnter(Collision col)
+    {
+        if (col.gameObject.tag == "Enemy")
+        {
+            Destroy(col.gameObject);
+            Destroy(gameObject);
+        }
+    }    
     
 }
